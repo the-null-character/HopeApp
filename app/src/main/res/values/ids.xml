@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="bloodgin" type="id" />
+    <item name="dobin" type="id" />
+    <item name="medicalcin" type="id" />
+    <item name="medicationin" type="id" />
+</resources>
